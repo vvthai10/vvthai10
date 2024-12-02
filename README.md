@@ -87,5 +87,10 @@ A curious learner and result-oriented individual interested in the role of a ai/
 
 <br/>
 
+<a href="https://clustrmaps.com/site/1c2w9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=eEHiFQ5BkYDtac2rqNy63vXACySYybDWFq9xJvPkv10&cl=ffffff" /></a>
+
+<br/>
+
+
 ## 💻 Latest Projects
 
